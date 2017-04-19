@@ -1,0 +1,18 @@
+section {
+    position: relative;
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+}
+
+div {
+    float: left;
+    margin: 5%;    
+}
+
+span {
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 60px;
+    color: white;
+}
